@@ -22,6 +22,7 @@ __Briefly About Myself:__
 
 I am a fourth-year student of OmSU. My specialty is "Mathematics and Computer Science". My goal is to become a web-developer. My strengths: high learning ability, purposeful, hardworking and communicable.
 
+
 ---
 
 __Skills and Proficiency:__
