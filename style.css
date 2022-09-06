@@ -1,0 +1,52 @@
+.container {
+    display: flex;
+}
+
+.backgroundcode {
+    background-color: #808080;
+    padding: 0.5em;
+}
+
+.backgroundhakki {
+    background-color: #9932CC;
+    flex-grow: 1;
+}
+
+.backgroundPeru {
+    background-color: #9370DB;
+}
+
+.backgroundhead {
+    background-color: #8B008B;
+    font-size: 3em;
+    margin-top: -4%;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -40px;
+    text-align: center;
+    font-family: Times New Roman, serif;
+}
+
+.container>div {
+    font-size: 1.2em;
+    padding: 2em;
+    margin-top: -10px;
+    margin-left: -8px;
+    margin-right: -8px;
+    font-family: Times New Roman, serif;
+}
+
+.alignnone {
+    display: block;
+    border-radius: 50%;
+    border: 5px #cfc solid;
+    box-shadow: 0 0 10px #444;
+    margin: auto;
+}
+
+.bgfoot {
+    background-color: #778899;
+    margin: 0 -8px;
+    margin-bottom: -10px;
+    text-align: center;
+}
